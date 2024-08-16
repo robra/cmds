@@ -1,4 +1,25 @@
 # MacOS Basics
+
+## Tilde ~
+```
+option + N
+```
+
+## Pipe |
+```
+option + 7 
+```
+
+## Backslash \
+```
+shift + option + /
+```
+
+## Screenshot
+```
+shift + command + 4
+```
+
 ## Show all files on mac
 ```
 defaults write com.apple.Finder AppleShowAllFiles true
